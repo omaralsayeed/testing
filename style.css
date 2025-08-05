@@ -51,5 +51,6 @@ body {
     .name {
         font-size: 64px;
         color: red;
+        background-color: #007BFF;
     }
 }
